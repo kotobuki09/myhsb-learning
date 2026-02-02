@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![HSB Logo](https://cdn.haitrieu.com/wp-content/uploads/2022/11/Logo-Truong-Quan-tri-va-Kinh-doanh-HSB-Blue.png)
+<img src="https://cdn.haitrieu.com/wp-content/uploads/2022/11/Logo-Truong-Quan-tri-va-Kinh-doanh-HSB-Blue.png" alt="HSB Logo" width="120">
 
 **Learn how AI was used to build a modern learning platform**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-hsb2005.netlify.app-blue?style=for-the-badge)](https://hsb2005.netlify.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-myhsb.netlify.app-blue?style=for-the-badge)](https://myhsb.netlify.app)
 [![Made with AI](https://img.shields.io/badge/Made_with-AI_Assistance-purple?style=for-the-badge&logo=google)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -25,7 +25,7 @@ This is **NOT** the source code of the HSB Quiz application. Instead, this is a 
 - 💡 Effective prompts for AI-assisted development
 - 🎨 UI/UX design patterns and implementation
 
-> **Live Demo**: Experience the actual application at [hsb2005.netlify.app](https://hsb2005.netlify.app)
+> **Live Demo**: Experience the actual application at [myhsb.netlify.app](https://myhsb.netlify.app)
 
 ---
 
@@ -188,7 +188,7 @@ myhsb.netlify.app/
 ### For Learners
 
 1. **Explore the Live Demo**
-   - Visit [hsb2005.netlify.app](https://hsb2005.netlify.app)
+   - Visit [myhsb.netlify.app](https://myhsb.netlify.app)
    - Try all three modes: Practice, Exam, AI Chat
    - Notice the UI/UX details
 
