@@ -230,6 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💼 Author
 
 **NGÔ TRUNG KIÊN**
+- 🌐 Website: [kngo.netlify.app](https://kngo.netlify.app/)
 - 📧 Email: kiennt@hsb.edu.vn
 - 🏫 School: Hanoi School of Business and Management (HSB)
 - 📱 Faculty: Non-Traditional Security
