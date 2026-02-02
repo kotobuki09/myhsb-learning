@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **NGÔ TRUNG KIÊN**
 - 📧 Email: kiennt@hsb.edu.vn
 - 🏫 School: Hanoi School of Business and Management (HSB)
-- 📱 Faculty: Information Technology
+- 📱 Faculty: Non-Traditional Security
 
 ---
 
